@@ -1,0 +1,18 @@
+/*Colors:
+ink     #1D1B18
+paper   #FBF8F3
+bone    #EFE9DF
+accent  #1B858F
+muted   #6B6560
+*/
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #FBF8F3;
+    color: #1D1B18;
+}
