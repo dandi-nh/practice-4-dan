@@ -15,4 +15,12 @@ muted   #6B6560
 body {
     background: #FBF8F3;
     color: #1D1B18;
+    font-family: 'Inter', Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.65;
+}
+
+h1, h2, h3 {
+    font-family: 'DM Serif Display', Georgia, serif;
+    font-weight: 400;
 }
