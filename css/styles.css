@@ -177,3 +177,17 @@ h1 {
     margin-bottom: 9px;
     font-size: 16px;
 }
+
+.jump {
+    border-left: 3px solid #1B858F;
+    padding-left: 18px;
+    margin-bottom: 30px;
+}
+
+.jump ol {
+    margin-left: 18px;
+}
+
+.jump li {
+    font-size: 16px;
+}
