@@ -191,3 +191,20 @@ h1 {
 .jump li {
     font-size: 16px;
 }
+
+.step {
+    border-top: 1px solid #EFE9DF;
+    padding-top: 26px;
+    margin-top: 26px;
+}
+
+.step .num {
+    display: block;
+    font-size: 30px;
+    color: #1B858F;
+}
+
+.back {
+    font-size: 14px;
+    color: #6B6560;
+}
