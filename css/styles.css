@@ -51,3 +51,23 @@ main {
     padding: 0 24px;
 }
 
+.site-footer {
+    background: #1D1B18;
+    color: #FBF8F3;
+}
+
+.site-footer .inner {
+    display: grid;
+    grid-template: auto / 1fr 1fr;
+    max-width: 1120px;
+    margin: 0 auto;
+    padding: 34px 24px;
+}
+
+.site-footer a {
+    color: #FBF8F3;
+}
+
+.site-footer .right {
+    text-align: right;
+}
