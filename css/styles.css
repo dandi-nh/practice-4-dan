@@ -102,3 +102,14 @@ h1 {
     font-size: 20px;
     color: #6B6560;
 }
+
+.button {
+    display: inline-block;
+    margin-top: 12px;
+    background: #1B858F;
+    color: #FBF8F3;
+    text-decoration: none;
+    padding: 13px 22px;
+    font-size: 15px;
+    text-transform: uppercase;
+}
